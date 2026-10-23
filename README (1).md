@@ -3,7 +3,7 @@
 **Yield analysis, forecasting and an AI assistant for a semiconductor fab.**
 A consulting-style portfolio project built in Microsoft Fabric, delivered in Agile (Scrum) sprints and tracked in Jira.
 
-> The client (Nexora Semiconductor) and the dataset are fictional/synthetic and used for learning purposes.
+
 
 ## Problem statement
 Average wafer yield is about 46% and swings from 31% to 69% between lots with no clear explanation. Yield engineers need to:
